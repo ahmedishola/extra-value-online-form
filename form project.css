@@ -1,0 +1,38 @@
+
+h2 {
+    text-align: right;
+}
+
+table{
+    width: 100%;
+}
+
+p {
+    width: 100%;
+}
+
+h3 {
+    border: 20px solid blue;
+    border-radius: 1px;
+    text-align: center;
+}
+
+body {
+
+    background-color: aqua;
+}
+
+h2 {
+    color: red;
+}
+
+h4 {
+    border-color: blue;
+    border-radius: 10%;
+    border: 15px solid blue;
+}
+
+img {
+    background-color: aqua;
+
+}
